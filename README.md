@@ -10,3 +10,6 @@ stuff for hack portland organizers
 5. have fun
 6. before end of night please do some amount of cleanup for BRS office people
 7. at end of night lock up side hallway door by pushing the button and outside door using hex key (on emergency fire box)
+
+# the program
+The Program is No Program (sort of).  We generally do not have a scheduled program for the night (except sometimes we do).  Python Night tends to have a speaking portion followed by a general hack portion.  The general "hack night" thing is for people to bring something to work on and hang out while vainly attempting to work on it.  We have themes with the intention of getting people with similar interests in the room at the same time.  Adherance to said theme is 100% optional.  Not getting anything done is OK.  Working quietly in a corner is OK.  Hanging out and talking to friends is OK.  Working on projects with other people is OK.  Being a jerk is not OK.
